@@ -1,0 +1,12 @@
+.main-div {
+  margin-top: 70px;
+}
+
+.nav-item > a {
+  color: black;
+}
+
+body {
+  background-color: #212529;
+  color: #fff;
+}
