@@ -21,3 +21,13 @@ body {
   margin-top: 20px;
   color: #212529;
 }
+
+.engaged {}
+
+.text-black {
+  color: #212529;
+}
+
+.text-black:hover {
+  color: #fff;
+}
