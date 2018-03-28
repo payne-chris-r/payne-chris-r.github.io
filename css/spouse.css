@@ -31,3 +31,9 @@ body {
 .text-black:hover {
   color: #fff;
 }
+
+.crate {
+  width: 200px;
+  margin: 10px;
+  /* display: block; */
+}
